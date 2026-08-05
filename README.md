@@ -13,7 +13,7 @@ Antes de comenzar, asegúrate de tener instalado:
 
 1. Clona este repositorio:
    ```bash
-   git clone [https://github.com/TU_USUARIO/proyecto-trivia.git](https://github.com/TU_USUARIO/proyecto-trivia.git)
+   git clone https://github.com/GarciabAngelica/Proyecto-Trivia.git
 
 2. En tu terminal entra a la carpeta del proyecto:
 cd Proyecto-Trivia
